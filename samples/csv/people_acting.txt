@@ -1,0 +1,10 @@
+1	23926	Fred Astaire	Fred Astaire	6
+1	24025	Fred Astaire	Fred Ayres	5
+1	25164	Fred Astaire	Guy Holden	1
+1	26942	Fred Astaire	Huck	2
+1	27125	Fred Astaire	Jerry Travers	1
+1	27630	Fred Astaire	Bake Baker	1
+1	28333	Fred Astaire	Lucky Garnett	1
+1	28757	Fred Astaire	Jerry Halliday	1
+1	29546	Fred Astaire	Petrov	1
+1	29971	Fred Astaire	Tony Flagg	1

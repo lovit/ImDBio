@@ -1,0 +1,10 @@
+1175	France
+1240	Denmark
+1304	Germany
+1341	Czechoslovakia
+1475	Romania
+1482	USA
+1495	UK
+1515	USA
+1521	Denmark
+1530	Australia
