@@ -29,7 +29,7 @@ class ReviewDirectoryReader:
             with open(path, encoding='utf-8') as f:
                 docs = [doc[:-1].split('\t', 1) for doc in f]
             if (self.num_review > 0) and (len(docs) + count > self.num_review):
-                docs = docs[:self.num_review - count]
+                docs = docs[:self.num_review - count - 1]
             count += len(docs)
 
             # yield format

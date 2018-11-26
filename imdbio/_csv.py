@@ -30,4 +30,4 @@ class ReviewsReader:
                     yield text
                 else:
                     yield (title, text)
-        self._len = i + 1
+        self._len = i
